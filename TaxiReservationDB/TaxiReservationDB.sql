@@ -1,0 +1,1 @@
+SELECT * FROM taxi_reservation_db.reservations;
